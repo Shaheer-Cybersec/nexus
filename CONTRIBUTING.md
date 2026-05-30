@@ -6,7 +6,7 @@ welcome — bug reports, feature ideas, documentation, and code.
 ## Getting set up
 
 ```bash
-git clone https://github.com/shaheerch/nexus.git
+git clone https://github.com/shaheerch6/nexus.git
 cd nexus
 python -m venv .venv
 # Windows:  .venv\Scripts\activate

@@ -62,7 +62,7 @@ cross-platform support, and a privacy-respecting design.
 ### Option A — run it directly (no install)
 
 ```bash
-git clone https://github.com/shaheerch/nexus.git
+git clone https://github.com/shaheerch6/nexus.git
 cd nexus
 python nexus.py
 ```
@@ -72,7 +72,7 @@ The launcher will offer to install the three small dependencies the first time.
 ### Option B — install as a command
 
 ```bash
-git clone https://github.com/shaheerch/nexus.git
+git clone https://github.com/shaheerch6/nexus.git
 cd nexus
 pip install .
 nexus            # now available anywhere

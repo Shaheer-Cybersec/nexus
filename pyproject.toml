@@ -34,9 +34,9 @@ dependencies = [
 ]
 
 [project.urls]
-Homepage = "https://github.com/shaheerch/nexus"
-Repository = "https://github.com/shaheerch/nexus"
-Issues = "https://github.com/shaheerch/nexus/issues"
+Homepage = "https://github.com/shaheerch6/nexus"
+Repository = "https://github.com/shaheerch6/nexus"
+Issues = "https://github.com/shaheerch6/nexus/issues"
 
 [project.scripts]
 nexus = "nexus.__main__:main"
